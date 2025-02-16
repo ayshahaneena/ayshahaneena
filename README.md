@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aysha Haneena</h1>
-<h3 align="center">An Aspiring Data scientist</h3>
+<h3 align="center">A Data science Explorer </h3>
 
 - 🔭 I’m currently Building an **AI App**
 
